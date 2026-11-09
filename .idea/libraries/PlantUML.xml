@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlantUML">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/labs/lab1/01_התקנות_וסביבת_פיתוח/PlantUML.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
